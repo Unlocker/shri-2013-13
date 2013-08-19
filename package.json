@@ -1,0 +1,21 @@
+{
+    "name": "digit-fact",
+    "description": "(pending)",
+    "version": "0.0.1",
+    "main": "./digit-fact.js",
+    "author": {
+        "name": "Serg Maksimov",
+        "email": "maksimov.sg@gmail.com"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/YOUR_LOGIN/digit-fact.git"
+    },
+    "bugs": {
+        "web": "http://github.com/YOUR_LOGIN/digit-fact/issues"
+    }
+}
